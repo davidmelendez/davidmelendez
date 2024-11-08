@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #👨‍💻 Senior Full Stack Developer
+
 -🌱 Actualmente me encuentro estudiando el maravilloso mundo de Web3
+
 -👯 Muy pronto estare colaborando en diversos proyectos Web3
 
 ### 🚀 +19 años construyendo soluciones digitales
