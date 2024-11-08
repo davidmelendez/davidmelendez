@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 ## 🌱 Filosofía Profesional
 
 -📚 Aprendizaje continuo
+
 -🔬 Investigación constante
+
 -💡 Innovación en soluciones
+
 -🤝 Trabajo colaborativo
 
 ---
