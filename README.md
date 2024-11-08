@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 👨‍💻 Senior Full Stack Developer
 
 - 🌱 Actualmente me encuentro estudiando el maravilloso mundo de Web3
@@ -33,3 +33,24 @@ Here are some ideas to get you started:
 
 ---
 > 🔍 Siempre en búsqueda de proyectos desafiantes que impulsen el crecimiento profesional y personal
+-->
+
+
+## 👨‍💻 Senior Full Stack Developer
+
+- 🌱 I am currently studying the wonderful world of Web3
+- 👯 Very soon I will be collaborating on various Web3 projects
+
+## 🚀 +19 years building digital solutions
+
+> 💡 *"Passionate about continuous learning"*
+
+## 🌱 Professional Philosophy
+
+- 📚 Continuous learning
+- 🔬 Constant research
+- 💡 Innovative solutions
+- 🤝 Collaborative work
+
+---
+> 🔍 Always in search of challenging projects that drive professional and personal growth
