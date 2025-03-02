@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 -->
 
 
-## 👨‍💻 Senior Full Stack Developer
+## 🛠️ Web3 Developer | Cairo & Rust | StarkNet | StarkLotto Founder
 
-- 🌱 I am currently studying the wonderful world of Web3
-- 👯 Very soon I will be collaborating on various Web3 projects
+- 🌱 Exploring the world of Web3, Cairo & Rust
+- 🎰 Building StarkLotto – a ReFi project for social impact
+- 👷‍♂️ Contributor at OnlyDust – open-source Web3 development
+- 🏗️ Sharing my journey & building in public
 
 ## 🚀 +19 years building digital solutions
 
