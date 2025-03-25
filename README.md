@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠️ Web3 Developer | Cairo & Rust | StarkNet | StarkLotto Founder
+## 🛠️ .Net Developer | Web3 Developer | Cairo & Rust | StarkNet | StarkLotto Founder
 
 - 🌱 Exploring the world of Web3, Cairo & Rust
 - 🎰 Building StarkLotto – a ReFi project for social impact
